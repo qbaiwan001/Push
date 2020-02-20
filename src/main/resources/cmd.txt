@@ -1,0 +1,2 @@
+C:2:DATA UPDATE USERINFO PIN=123	Name=jwz	Passwd=	Card=	Pri=0
+C:4:DATA UPDATE BIOPHOTO PIN=123	Type=9	Size=0	Content=	Format=1	Url=/jwz.jpg
